@@ -52,4 +52,4 @@ function renderBlog()
             ${dataBlog[index].content}
           </p>
         </div>
-      </div>
+        
