@@ -30,7 +30,7 @@ nav ul li img {
 }
 
 nav ul li .active {
-  color: orangered;
+  color: rgb(16, 4, 44);
 }
 
 .nav-left {
@@ -38,7 +38,7 @@ nav ul li .active {
 }
 
 .nav-right a {
-  background-color: orangered;
+  background-color: rgb(0, 0, 0);
   padding: 8px 20px;
   color: white;
   border-radius: 5px;
